@@ -88,8 +88,9 @@ P.S : This project and course have allowed me to learn interesting Data Science 
 <hr>
 
 # Repository Materials
-If you are interested in my project during the course, read further
+If you are interested in the courses, below timeline shows my learning time for the entire specialization of which Capstone project is major part of it.
 
+![coursera timeline](https://github.com/shylajachippa/Coursera-IBM-Applied-Data-Science-Capstone/blob/main/Coursera%20timeline.png)
 
 This repository contains jupyter notebooks and reports material for this course, the course agenda is detailed below.
 
