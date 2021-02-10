@@ -27,7 +27,7 @@ Below steps will be followed to clean the data from cities datasets
 ## Methodology
 let's group each neighborhood and by taking the sum and maximum of the frequency of occurrence of each category. If the current neighborhood is in Toronto,  if a similar neighborhood needs to be found in New York, we need to consider all the similar venue categories to the selected borough of New York and Toronto before grouping and discard all the dissimilar venue categories in both cities datasets.
 
-![venn diagram](https://github.com/shylajachippa/Coursera-IBM-Applied-Data-Science-Capstone/blob/main/venn_diagram_new_ork_toronto.png)
+![venn diagram](https://github.com/shylajachippa/Coursera-IBM-Applied-Data-Science-Capstone/blob/main/venn_diagram_new_ork_toronto.png?raw=true)
 
 
 ### Matrix Multiplication
@@ -42,7 +42,7 @@ Steps to get matching locations
 4. save the matching locations into a dataframe
 
 ## Results
-![matching locations](https://github.com/shylajachippa/Coursera-IBM-Applied-Data-Science-Capstone/blob/main/matching_locations.png)
+![matching locations](https://github.com/shylajachippa/Coursera-IBM-Applied-Data-Science-Capstone/blob/main/matching_locations.png?raw=true)
 
 ## Observations
 The following observations are being made after analyzing the data above.
@@ -90,7 +90,7 @@ P.S : This project and course have allowed me to learn interesting Data Science 
 # Repository Materials
 If you are interested in the courses, below timeline shows my learning time for the entire specialization of which Capstone project is major part of it.
 
-![coursera timeline](https://github.com/shylajachippa/Coursera-IBM-Applied-Data-Science-Capstone/blob/main/Coursera%20timeline.png)
+![coursera timeline](https://github.com/shylajachippa/Coursera-IBM-Applied-Data-Science-Capstone/blob/main/Coursera%20timeline.png?raw=true)
 
 This repository contains jupyter notebooks and reports material for this course, the course agenda is detailed below.
 
